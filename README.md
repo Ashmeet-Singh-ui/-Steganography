@@ -90,6 +90,7 @@ steg_detector/
 ## 👤 Author
 
 Ishika
+Ashmeet
 
 ---
 
